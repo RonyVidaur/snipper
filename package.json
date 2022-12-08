@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/RonyVidaur/morgan#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.17.3"
   }
 }
